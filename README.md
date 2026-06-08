@@ -3,7 +3,7 @@ A browser extension that when clicked, gets rid of intrusive popups and unlocks 
 
 **Useage Guide**
 - When a popup appears and your scrolling gets locked, just click the extension, and it'll go away.
-- *Note: Some elements may be falsely detected as a popup, and removed. Will work on to improve. For example, YouTube Shorts breaks if you try to unlock the page. Though, there is never need to actually use it on YouTube.*
+- *Note: If used on a page that does not have disruptive popups and no reason to unlock the page, it sometimes will remove elements not expected to count as popups. Intended to only be used on pages where a disruptive popup occurs, and when they occur.*
 
 This extension is known to support Chromium (Google Chrome, Brave, etc) and Firefox (LibreWolf, etc), but it likely supports more browsers like Edge, they just haven't been tested. It has not been tested on mobile.
 
