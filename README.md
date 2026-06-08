@@ -26,3 +26,5 @@ This extension is known to support Chromium (Google Chrome, Brave, etc) and Fire
 *This project's code was coded by [Claude](https://claude.com), then edited by me.*
 
 *This project is dedicated to the public domain [(CC0)](https://creativecommons.org/publicdomain/zero/1.0/). Feel free to copy, modify, distribute, or do whatever you want with it.*
+
+*Disclaimer: This project is independent and is not affiliated with, endorsed by, or associated with Pinterest, LinkedIn, or any other website mentioned.*
