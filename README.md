@@ -1,5 +1,7 @@
 # Let Me Browse (Version 1.0)
-A browser extension that when clicked, gets rid of intrusive popups and unlocks your scrolling so you can browse websites unbothered. Some websites like Pinterest let you browse for an inconsistent amount of time, then suddenly make a popup that keeps you from browsing and demands you log in. With this extension, when that happens, just click the extension's icon, and it'll go away.
+A browser extension that when clicked, gets rid of intrusive popups and unlocks your scrolling so you can browse websites unbothered.
+
+Some websites like Pinterest let you browse for an inconsistent amount of time, then suddenly make a popup that keeps you from browsing and demands you log in. With this extension, when that happens, just click the extension's icon, and it'll go away.
 
 **Useage Guide**
 - When a popup appears and your scrolling gets locked, just click the extension, and it'll go away.
