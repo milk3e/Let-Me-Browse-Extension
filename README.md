@@ -1,2 +1,24 @@
-# Let-Me-Browse-Extension
-A browser extension that when clicked, bypasses aggressive popups that freeze scrolling and lets you keep browsing. Works great for browsing Pinterest without logging in.
+# Let Me Browse (Version 1.0)
+A browser extension that when clicked, gets rid of intrusive popups and unlocks your scrolling so you can browse websites unbothered. Some websites like Pinterest let you browse for an inconsistent amount of time, then suddenly make a popup that keeps you from browsing and demands you log in. With this extension, when that happens, just click the extension's icon, and it'll go away.
+
+**Useage Guide**
+- When a popup appears and your scrolling gets locked, just click the extension, and it'll go away.
+
+This extension is known to support Chromium (Google Chrome, Brave, etc) and Firefox (LibreWolf, etc), but it likely supports more browsers like Edge, they just haven't been tested. It has not been tested on mobile.
+
+**How to Install for Chromium (Google Chrome, Brave, etc)**
+1. From the files above, click the green 'Code' button, and download as zip. Extract the let-me-browse folder found in the Let-Me-Browse-main folder.
+2. Go to ```chrome://extensions/``` in your address bar, and enable the Developer Mode switch in the top right.
+3. Click 'Load unpacked' and go in the let-me-browse folder, then click Open.
+- *It's important you keep the let-me-browse folder in a place to keep, as the browser directly uses that folder.*
+
+**How to Install for Firefox (LibreWolf, etc)**
+- *Since this is a raw, unpackaged extension, it requires a setting to be changed to allow it. Some versions of Firefox may not have this setting available.*
+1. From the files above, click the green 'Code' button, and download as zip. Extract the let-me-browse folder found in the Let-Me-Browse-main folder.
+2. Compress the files in let-me-browse into a .zip (not the folder itself, just its contents).
+3. Go to ```about:config``` in your address bar, then search for ```xpinstall.signatures.required``` and set it to false.
+4. Go to ```about:addons```, drag-and-drop let-me-browse.zip into the page. On the page, a popup is made, click the 'Add' button.
+
+*Coded by [Claude](https://claude.com), then edited by me.*
+
+*This project is dedicated to the public domain [(CC0)](https://creativecommons.org/publicdomain/zero/1.0/). Feel free to copy, modify, distribute, or do whatever you want with it.*
