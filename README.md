@@ -20,6 +20,6 @@ This extension is known to support Chromium (Google Chrome, Brave, etc) and Fire
 3. Go to ```about:config``` in your address bar, then search for ```xpinstall.signatures.required``` and set it to false.
 4. Go to ```about:addons```, drag-and-drop let-me-browse.zip into the page. On the page, a popup is made, click the 'Add' button.
 
-*This project was coded by [Claude](https://claude.com), then edited by me.*
+*This project's code was coded by [Claude](https://claude.com), then edited by me.*
 
 *This project is dedicated to the public domain [(CC0)](https://creativecommons.org/publicdomain/zero/1.0/). Feel free to copy, modify, distribute, or do whatever you want with it.*
