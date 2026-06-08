@@ -10,14 +10,14 @@ Some websites like Pinterest let you browse for an inconsistent amount of time, 
 This extension is known to support Chromium (Google Chrome, Brave, etc) and Firefox (LibreWolf, etc), but it likely supports more browsers like Edge, they just haven't been tested. It has not been tested on mobile.
 
 **How to Install for Chromium (Google Chrome, Brave, etc)**
-1. From the files above, click the green 'Code' button, and download as zip. Extract the let-me-browse folder found in the Let-Me-Browse-main folder.
+1. From the files above, click the green 'Code' button, and download as zip. Extract the let-me-browse folder found in the Let-Me-Browse-Extension-main folder.
 2. Go to ```chrome://extensions/``` in your address bar, and enable the Developer Mode switch in the top right.
 3. Click 'Load unpacked' and go in the let-me-browse folder, then click Open.
 - *It's important you keep the let-me-browse folder in a place to keep, as the browser directly uses that folder.*
 
 **How to Install for Firefox (LibreWolf, etc)**
 - *Since this is a raw, unpackaged extension, it requires a setting to be changed to allow it. Some versions of Firefox may not have this setting available.*
-1. From the files above, click the green 'Code' button, and download as zip. Extract the let-me-browse folder found in the Let-Me-Browse-main folder.
+1. From the files above, click the green 'Code' button, and download as zip. Extract the let-me-browse folder found in the Let-Me-Browse-Extension-main folder.
 2. Compress the files in let-me-browse into a .zip (not the folder itself, just its contents).
 3. Go to ```about:config``` in your address bar, then search for ```xpinstall.signatures.required``` and set it to false.
 4. Go to ```about:addons```, drag-and-drop let-me-browse.zip into the page. On the page, a popup is made, click the 'Add' button.
